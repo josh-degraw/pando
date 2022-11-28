@@ -78,4 +78,4 @@ export default {
   popoverTrigger_aria_expanded__true______data_popover: {
     display: 'inline-block',
   },
-}
+} as const
